@@ -1,6 +1,4 @@
-## Live site url:
 
-https://programmerowais.github.io/Acme-Rocket.github.io/
 
 ## A simple tailwind project where I apply almost all the concepts which need to learn
 
